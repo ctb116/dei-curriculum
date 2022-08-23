@@ -137,9 +137,7 @@ We encourage students to become allies. An ally is a person who actively works t
 We recommend checking out the following resources if you are interested in becoming an ally:
 
 * [Guide to Allyship](http://www.guidetoallyship.com/)
-* [Ally Skills Workshop handout](http://files.frameshiftconsulting.com/Ally%20Skills%20Workshop%20handout%20-%20US.pdf): Provides useful ally terminology.
 * [Better Allies](https://code.likeagirl.io/@betterallies): Weekly articles that provide steps toward being a better ally.
-* [Being an Ally to Women in Technology](https://medium.com/@hadrad1000/how-do-i-ally-being-an-ally-to-women-in-technology-73b70fb86a98): A resource on being an ally to women in tech.
 
 ## [Further Resources](#further-resources)
 
